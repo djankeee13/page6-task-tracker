@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meetin at School",
+      "day": "Feb 6th 1:30",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shooping",
+      "day": "Feb 5th 3:30",
+      "reminder": false
+    },
+    {
+      "text": "Learn Tailwind",
+      "day": "Monday 25th Apr",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
